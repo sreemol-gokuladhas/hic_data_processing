@@ -1,5 +1,5 @@
 
-# download SRA files from NCBI using SRAToolkit
+# download fastq files from GEO using parallel-fastq-dump
 
 
 rule fastq_dump:
